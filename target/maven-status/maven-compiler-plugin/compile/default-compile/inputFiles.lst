@@ -23,6 +23,7 @@ C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\j
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\patrones\factory\ProductoHamburguesa.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\patrones\observer\ObservadorPedido.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\patrones\observer\SujetoPedido.java
+C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\patrones\singleton\GestorConexion.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\patrones\singleton\GestorPedidos.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\patrones\state\ContextoEstadoPedido.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\patrones\state\EstadoEntregado.java
@@ -41,8 +42,6 @@ C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\j
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\principios\IRepositorioPedidos.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\principios\IValidadorPedido.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\principios\ValidadorPedido.java
-C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\repositorio\ConfiguracionBaseDatos.java
-C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\repositorio\GestorConexion.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\repositorio\RepositorioPedidosMemoria.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\modelo\repositorio\RepositorioPedidosSQL.java
 C:\Users\jesus\OneDrive\Escritorio\UTP\2026\CICLO 5\Diseño de Patrones- 35099\jpj_burgers\jpj_burgers\src\main\java\com\mycompany\jpj_burgers\vista\FormularioPedido.java

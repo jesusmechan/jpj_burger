@@ -1,7 +1,7 @@
 package com.mycompany.jpj_burgers;
 
 import com.mycompany.jpj_burgers.controlador.ControladorPrincipal;
-import com.mycompany.jpj_burgers.modelo.repositorio.GestorConexion;
+import com.mycompany.jpj_burgers.modelo.patrones.singleton.GestorConexion;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 

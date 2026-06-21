@@ -2,6 +2,7 @@ package com.mycompany.jpj_burgers.modelo.repositorio;
 
 import com.mycompany.jpj_burgers.modelo.dominio.ItemPedido;
 import com.mycompany.jpj_burgers.modelo.dominio.Pedido;
+import com.mycompany.jpj_burgers.modelo.patrones.singleton.GestorConexion;
 import com.mycompany.jpj_burgers.modelo.principios.IRepositorioPedidos;
 import java.sql.CallableStatement;
 import java.sql.Connection;
